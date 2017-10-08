@@ -13,5 +13,6 @@ module.exports = {
     'react/forbid-prop-types': ['error', { forbid: ['any'] }],
     'jsx-a11y/no-static-element-interactions': 'off',
     'jsx-a11y/click-events-have-key-events': 'off',
+    'linebreak-style': 'off',
   },
 };
